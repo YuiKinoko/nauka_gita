@@ -9,3 +9,5 @@ Git jest fajny
   Ladna jest dzis pogoda tralal
 
 ! [Azjatyckie obrazki sa super] (https://octodex.github.com/terracottocat/)
+
+zmiana na  github
